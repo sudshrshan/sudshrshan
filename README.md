@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Aditya Kumar
-**IKGPTU’2026 || Web Developer || Machine Learning || Gen AI || C,C++|| Data structure and Algorithm || Blockchain || ICP || Matoko**
+# Hi 👋, I'm Aditya Kumar
+**Full Stack Developer||IKGPTU’2026 || Web Developer || Machine Learning || Gen AI || C,C++|| Data structure and Algorithm || Blockchain || ICP || Matoko**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudarshan90307) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-kumar-a81a13256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityavijaya5560@gmail.com) 
 
